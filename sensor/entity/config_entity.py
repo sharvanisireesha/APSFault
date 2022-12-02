@@ -1,3 +1,9 @@
+class TrainingPipelineConfig:
+    
+
+
+
+
 class DataIngestionConfig:...
 class DataTransformationConfig:...
 class DataValidationConfig:...
